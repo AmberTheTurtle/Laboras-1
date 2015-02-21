@@ -1,0 +1,14 @@
+﻿Build started 2015.02.21 19:23:13.
+     1>Project "C:\Users\Probook\Desktop\Visual Studio Stuff\2 SEMESTRAS\Laboras-1\Laboratorinis\Laboratorinis.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+       Link:
+         D:\visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Probook\Desktop\Visual Studio Stuff\2 SEMESTRAS\Laboras-1\Debug\Laboratorinis.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Laboratorinis.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Probook\Desktop\Visual Studio Stuff\2 SEMESTRAS\Laboras-1\Debug\Laboratorinis.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Laboratorinis.vcxproj -> C:\Users\Probook\Desktop\Visual Studio Stuff\2 SEMESTRAS\Laboras-1\Debug\Laboratorinis.exe
+     1>Done Building Project "C:\Users\Probook\Desktop\Visual Studio Stuff\2 SEMESTRAS\Laboras-1\Laboratorinis\Laboratorinis.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99
